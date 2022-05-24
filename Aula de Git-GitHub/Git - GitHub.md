@@ -8,7 +8,7 @@ O **Git** é um sistema de versionamento de códigos distribuídos. Não confund
 * git status - mostra se ouve alguma alteração no repositório local em que estamos trabalhando.
 * git add - prepara os aquivos do repositório para um commit.
 * git commit - grava as mudanças do repositório local.
-* git fetch - verifica os se o repositório remoto tem alterações.
+* git fetch - verifica se o repositório remoto tem alterações.
 * git pull - traz as mudanças do repositório remoto para o repositório local.
 * git push - envia commits do repositório local para o repositório remoto(exemplo: **GitHub**).
 
